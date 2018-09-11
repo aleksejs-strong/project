@@ -1,0 +1,5 @@
+.btn.nohover:hover {
+    /* here copy default .btn class styles */
+    cursor:default !important;
+    /* or something like that */
+}
